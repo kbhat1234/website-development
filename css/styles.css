@@ -2,32 +2,39 @@ h1 {
     color:red;
     text-align:left;
 }
+
 h2 {
     color:green;
     text-align:left;
 }
+
 h3 {
     color:blue;
     text-align:left;
 }
+
 h4 {
     color:red;
     text-align:left;
 }
+
 h5 {
     color:green;
     text-align:left;
 }
+
 h6 {
     color:blue;
     text-align:left;
 }
+
 p {
     color:orange;
     text-align:justify;
     font-family:arial;
     font-weight:lighter;
 }
+
 div {
     background-color: teal;
     width:50%;
@@ -38,21 +45,39 @@ div {
     font-size:14px;
     font-weight:normal;
 }
+
 table {
     border:4px solid black;
     border-collapse:collapse;
     width:50%;
     height:50%;
 }
+
 th, td {
     border:1px solid black;
     text-align:center;
     padding:5px;
     font-weight:bold;
 }
+
 th {
     background-color:#e01246;
 }
+
 td {
     background-color:#e0ced3;
+}
+
+#biggest {
+    font-size:35px;
+}
+#bigger {
+    font-size:25px;
+}
+#big {
+    font-size:15px;
+}
+.name {
+    font-weight:bold;
+    color:red;
 }
